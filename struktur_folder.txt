@@ -1,0 +1,8 @@
+.
+├── data/
+│   ├── Crop_recommendation.csv
+│   └── README.md 
+├── PROJECT_SDA_Crop_Recommendation.ipynb
+├── requirements.txt
+├── struktur_folder.txt
+└── .gitignore
